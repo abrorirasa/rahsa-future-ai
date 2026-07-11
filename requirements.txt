@@ -1,0 +1,29 @@
+# Core backend
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+pydantic-settings==2.6.0
+
+# Database
+sqlalchemy==2.0.35
+asyncpg==0.30.0
+alembic==1.13.3
+motor==3.6.0
+
+# Environment / config
+python-dotenv==1.0.1
+
+# Trading / data analysis
+pandas==2.2.3
+numpy==1.26.4
+
+# Exchange connectivity
+websockets==13.1
+httpx==0.27.2
+
+# Logging
+loguru==0.7.2
+
+# Testing
+pytest==8.3.3
+pytest-asyncio==0.24.0
