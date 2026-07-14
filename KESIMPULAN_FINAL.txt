@@ -1,0 +1,108 @@
+==================================================
+RINGKASAN LENGKAP RISET STRATEGI RAHSA FUTURE AI
+==================================================
+
+--- hasil_backtest.txt ---
+=== HASIL BACKTEST 12 ASET ===
+
+BTCUSDT: 3 trade, winrate 66.67%, return 0.81%
+ETHUSDT: 3 trade, winrate 66.67%, return 9.88%
+BNBUSDT: 5 trade, winrate 40.0%, return -18.31%
+SOLUSDT: 5 trade, winrate 60.0%, return 12.36%
+XRPUSDT: 3 trade, winrate 33.33%, return -1.13%
+ADAUSDT: 3 trade, winrate 66.67%, return 11.65%
+DOGEUSDT: 3 trade, winrate 0.0%, return -16.59%
+DOTUSDT: 4 trade, winrate 50.0%, return 2.9%
+AVAXUSDT: 5 trade, winrate 40.0%, return -5.62%
+MATICUSDT: 5 trade, winrate 40.0%, return -12.83%
+LTCUSDT: 3 trade, winrate 100.0%, return 5.28%
+LINKUSDT: 3 trade, winrate 66.67%, return 7.25%
+
+=== RANKING BERDASARKAN RETURN ===
+SOLUSDT: return 12.36% (winrate 60.0%, 5 trade)
+ADAUSDT: return 11.65% (winrate 66.67%, 3 trade)
+ETHUSDT: return 9.88% (winrate 66.67%, 3 trade)
+LINKUSDT: return 7.25% (winrate 66.67%, 3 trade)
+LTCUSDT: return 5.28% (winrate 100.0%, 3 trade)
+DOTUSDT: return 2.9% (winrate 50.0%, 4 trade)
+BTCUSDT: return 0.81% (winrate 66.67%, 3 trade)
+XRPUSDT: return -1.13% (winrate 33.33%, 3 trade)
+AVAXUSDT: return -5.62% (winrate 40.0%, 5 trade)
+MATICUSDT: return -12.83% (winrate 40.0%, 5 trade)
+DOGEUSDT: return -16.59% (winrate 0.0%, 3 trade)
+BNBUSDT: return -18.31% (winrate 40.0%, 5 trade)
+
+--- hasil_final_backtest.txt ---
+=== FINAL BACKTEST: Decision Engine (Strategy+AI+Risk) ===
+
+BTCUSDT: 6 trade, winrate 33.33%, total PnL -0.14%
+ETHUSDT: 8 trade, winrate 25.0%, total PnL -0.04%
+BNBUSDT: 6 trade, winrate 16.67%, total PnL -6.16%
+SOLUSDT: 8 trade, winrate 37.5%, total PnL -1.45%
+XRPUSDT: 7 trade, winrate 28.57%, total PnL 0.9%
+ADAUSDT: 8 trade, winrate 37.5%, total PnL 10.31%
+DOGEUSDT: 6 trade, winrate 16.67%, total PnL -9.69%
+DOTUSDT: 6 trade, winrate 33.33%, total PnL -7.52%
+AVAXUSDT: 10 trade, winrate 20.0%, total PnL -14.73%
+MATICUSDT: 4 trade, winrate 75.0%, total PnL 24.25%
+LTCUSDT: 6 trade, winrate 50.0%, total PnL -0.66%
+LINKUSDT: 5 trade, winrate 20.0%, total PnL 0.64%
+
+--- hasil_rsi.txt ---
+=== STRATEGI RSI (1000 candle) ===
+
+BTCUSDT: 21 trade, winrate 66.67%, total PnL 13.49%
+MATICUSDT: 27 trade, winrate 44.44%, total PnL -28.92%
+ADAUSDT: 29 trade, winrate 31.03%, total PnL -45.12%
+
+--- hasil_validasi_btc_rsi.txt ---
+=== VALIDASI BTC+RSI DI BEBERAPA PERIODE ===
+
+500 candle (~83 hari): 9 trade, winrate 44.44%, PnL -14.76%
+1000 candle (~166 hari): 21 trade, winrate 66.67%, PnL 13.49%
+1500 candle (~250 hari): 21 trade, winrate 66.67%, PnL 13.49%
+
+--- hasil_combined.txt ---
+=== STRATEGI GABUNGAN MA+RSI (1000 candle) ===
+
+BTCUSDT: 20 trade, winrate 65.0%, PnL 17.82%
+ETHUSDT: 22 trade, winrate 63.64%, PnL 28.33%
+BNBUSDT: 19 trade, winrate 68.42%, PnL -2.26%
+SOLUSDT: 23 trade, winrate 73.91%, PnL 57.6%
+XRPUSDT: 22 trade, winrate 54.55%, PnL 19.17%
+ADAUSDT: 29 trade, winrate 41.38%, PnL -26.71%
+DOGEUSDT: 22 trade, winrate 63.64%, PnL 26.92%
+DOTUSDT: 21 trade, winrate 57.14%, PnL 29.51%
+AVAXUSDT: 24 trade, winrate 58.33%, PnL 22.7%
+MATICUSDT: 26 trade, winrate 46.15%, PnL -18.31%
+LTCUSDT: 21 trade, winrate 71.43%, PnL 41.53%
+LINKUSDT: 20 trade, winrate 70.0%, PnL 51.96%
+
+Rata-rata PnL semua koin: 20.69%
+
+--- hasil_validasi_top3.txt ---
+=== VALIDASI TOP 3 KE PERIODE BERBEDA ===
+
+--- SOLUSDT ---
+300 candle (~50 hari): 5 trade, winrate 60.0%, PnL 5.87%
+600 candle (~100 hari): 12 trade, winrate 58.33%, PnL 1.41%
+1000 candle (~166 hari): 23 trade, winrate 73.91%, PnL 57.6%
+
+--- LINKUSDT ---
+300 candle (~50 hari): 6 trade, winrate 66.67%, PnL 11.66%
+600 candle (~100 hari): 9 trade, winrate 66.67%, PnL 7.16%
+1000 candle (~166 hari): 20 trade, winrate 70.0%, PnL 51.96%
+
+--- LTCUSDT ---
+300 candle (~50 hari): 6 trade, winrate 66.67%, PnL 5.45%
+600 candle (~100 hari): 11 trade, winrate 63.64%, PnL 4.55%
+1000 candle (~166 hari): 21 trade, winrate 71.43%, PnL 41.53%
+
+
+==================================================
+KESIMPULAN SEMENTARA:
+Strategi terbaik sejauh ini: Kombinasi MA20/MA50 + RSI
+Top performer: SOLUSDT, LINKUSDT, LTCUSDT
+Perlu divalidasi lebih lanjut sebelum dipakai dengan dana asli.
+Belum ada strategi yang 100% terbukti stabil di semua periode.
+==================================================

@@ -1,0 +1,5 @@
+=== VALIDASI BTC+RSI DI BEBERAPA PERIODE ===
+
+500 candle (~83 hari): 9 trade, winrate 44.44%, PnL -14.76%
+1000 candle (~166 hari): 21 trade, winrate 66.67%, PnL 13.49%
+1500 candle (~250 hari): 21 trade, winrate 66.67%, PnL 13.49%

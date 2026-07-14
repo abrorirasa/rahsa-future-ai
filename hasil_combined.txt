@@ -1,0 +1,16 @@
+=== STRATEGI GABUNGAN MA+RSI (1000 candle) ===
+
+BTCUSDT: 20 trade, winrate 65.0%, PnL 17.82%
+ETHUSDT: 22 trade, winrate 63.64%, PnL 28.33%
+BNBUSDT: 19 trade, winrate 68.42%, PnL -2.26%
+SOLUSDT: 23 trade, winrate 73.91%, PnL 57.6%
+XRPUSDT: 22 trade, winrate 54.55%, PnL 19.17%
+ADAUSDT: 29 trade, winrate 41.38%, PnL -26.71%
+DOGEUSDT: 22 trade, winrate 63.64%, PnL 26.92%
+DOTUSDT: 21 trade, winrate 57.14%, PnL 29.51%
+AVAXUSDT: 24 trade, winrate 58.33%, PnL 22.7%
+MATICUSDT: 26 trade, winrate 46.15%, PnL -18.31%
+LTCUSDT: 21 trade, winrate 71.43%, PnL 41.53%
+LINKUSDT: 20 trade, winrate 70.0%, PnL 51.96%
+
+Rata-rata PnL semua koin: 20.69%
