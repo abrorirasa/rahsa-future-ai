@@ -1,0 +1,5 @@
+=== STRATEGI RSI (1000 candle) ===
+
+BTCUSDT: 21 trade, winrate 66.67%, total PnL 13.49%
+MATICUSDT: 27 trade, winrate 44.44%, total PnL -28.92%
+ADAUSDT: 29 trade, winrate 31.03%, total PnL -45.12%
