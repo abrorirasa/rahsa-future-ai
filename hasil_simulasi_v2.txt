@@ -1,0 +1,6 @@
+BUY di harga 74.17 (SL: 71.94, TP: 78.62)
+STOP LOSS kena di harga 70.01, PnL: -5.61%
+Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+
+Total PnL harian terakhir: -5.61%
+Trading dihentikan otomatis? True

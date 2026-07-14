@@ -1,0 +1,2 @@
+2026-07-11 21:20:57.084 | INFO     | backend.main:lifespan:16 - Starting Rahsa Future AI backend | env=development
+2026-07-11 21:20:57.112 | ERROR    | backend.main:lifespan:21 - Database initialization failed: [Errno 111] Connection refused

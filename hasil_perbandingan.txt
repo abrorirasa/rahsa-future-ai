@@ -1,0 +1,10 @@
+=== MA MURNI vs DECISION ENGINE (1000 candle) ===
+
+BTCUSDT MA-murni: 10 trade, 50.0% winrate, PnL -0.34%
+BTCUSDT +AI:      40 trade, 37.5% winrate, PnL -6.28%
+
+MATICUSDT MA-murni: 11 trade, 27.27% winrate, PnL -18.32%
+MATICUSDT +AI:      36 trade, 33.33% winrate, PnL -16.39%
+
+ADAUSDT MA-murni: 11 trade, 45.45% winrate, PnL 12.84%
+ADAUSDT +AI:      51 trade, 29.41% winrate, PnL -24.91%

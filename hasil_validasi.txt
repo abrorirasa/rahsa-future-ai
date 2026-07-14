@@ -1,0 +1,5 @@
+=== VALIDASI DENGAN DATA LEBIH PANJANG (1000 candle ~166 hari) ===
+
+MATICUSDT: 36 trade, winrate 33.33%, total PnL -16.39%
+ADAUSDT: 51 trade, winrate 29.41%, total PnL -24.91%
+BTCUSDT: 40 trade, winrate 37.5%, total PnL -6.28%

@@ -1,0 +1,10 @@
+=== AI SCORING ENGINE - SOLUSDT ===
+Sinyal MA20/MA50: HOLD
+Keputusan AI: SELL
+Skor akhir: -32
+
+Rincian skor:
+- Trend: -17
+- Volume: -6
+- Momentum: -9
+- Bonus sinyal MA: 0

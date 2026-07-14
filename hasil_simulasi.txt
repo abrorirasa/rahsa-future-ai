@@ -1,0 +1,6 @@
+BUY di harga 74.17
+SELL di harga 67.33, PnL: -9.22%
+Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+
+Total PnL harian terakhir: -9.222057435620876%
+Trading dihentikan otomatis? True

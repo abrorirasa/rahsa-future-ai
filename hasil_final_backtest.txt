@@ -1,0 +1,14 @@
+=== FINAL BACKTEST: Decision Engine (Strategy+AI+Risk) ===
+
+BTCUSDT: 6 trade, winrate 33.33%, total PnL -0.14%
+ETHUSDT: 8 trade, winrate 25.0%, total PnL -0.04%
+BNBUSDT: 6 trade, winrate 16.67%, total PnL -6.16%
+SOLUSDT: 8 trade, winrate 37.5%, total PnL -1.45%
+XRPUSDT: 7 trade, winrate 28.57%, total PnL 0.9%
+ADAUSDT: 8 trade, winrate 37.5%, total PnL 10.31%
+DOGEUSDT: 6 trade, winrate 16.67%, total PnL -9.69%
+DOTUSDT: 6 trade, winrate 33.33%, total PnL -7.52%
+AVAXUSDT: 10 trade, winrate 20.0%, total PnL -14.73%
+MATICUSDT: 4 trade, winrate 75.0%, total PnL 24.25%
+LTCUSDT: 6 trade, winrate 50.0%, total PnL -0.66%
+LINKUSDT: 5 trade, winrate 20.0%, total PnL 0.64%

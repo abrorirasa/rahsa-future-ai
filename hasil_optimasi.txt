@@ -1,0 +1,10 @@
+=== OPTIMASI STOP LOSS / TAKE PROFIT (SOLUSDT) ===
+
+SL:2.0% TP:4.0% -> 2 trade, winrate 50.0%, total PnL 1.55%
+SL:3.0% TP:6.0% -> 2 trade, winrate 50.0%, total PnL 0.93%
+SL:4.0% TP:8.0% -> 2 trade, winrate 50.0%, total PnL 2.7%
+SL:5.0% TP:10.0% -> 2 trade, winrate 50.0%, total PnL 7.74%
+SL:2.0% TP:6.0% -> 2 trade, winrate 50.0%, total PnL 3.54%
+SL:3.0% TP:9.0% -> 2 trade, winrate 50.0%, total PnL 7.74%
+
+PALING OPTIMAL: SL:5.0% TP:10.0% dengan total PnL 7.74%

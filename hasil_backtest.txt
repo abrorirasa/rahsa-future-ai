@@ -1,0 +1,28 @@
+=== HASIL BACKTEST 12 ASET ===
+
+BTCUSDT: 3 trade, winrate 66.67%, return 0.81%
+ETHUSDT: 3 trade, winrate 66.67%, return 9.88%
+BNBUSDT: 5 trade, winrate 40.0%, return -18.31%
+SOLUSDT: 5 trade, winrate 60.0%, return 12.36%
+XRPUSDT: 3 trade, winrate 33.33%, return -1.13%
+ADAUSDT: 3 trade, winrate 66.67%, return 11.65%
+DOGEUSDT: 3 trade, winrate 0.0%, return -16.59%
+DOTUSDT: 4 trade, winrate 50.0%, return 2.9%
+AVAXUSDT: 5 trade, winrate 40.0%, return -5.62%
+MATICUSDT: 5 trade, winrate 40.0%, return -12.83%
+LTCUSDT: 3 trade, winrate 100.0%, return 5.28%
+LINKUSDT: 3 trade, winrate 66.67%, return 7.25%
+
+=== RANKING BERDASARKAN RETURN ===
+SOLUSDT: return 12.36% (winrate 60.0%, 5 trade)
+ADAUSDT: return 11.65% (winrate 66.67%, 3 trade)
+ETHUSDT: return 9.88% (winrate 66.67%, 3 trade)
+LINKUSDT: return 7.25% (winrate 66.67%, 3 trade)
+LTCUSDT: return 5.28% (winrate 100.0%, 3 trade)
+DOTUSDT: return 2.9% (winrate 50.0%, 4 trade)
+BTCUSDT: return 0.81% (winrate 66.67%, 3 trade)
+XRPUSDT: return -1.13% (winrate 33.33%, 3 trade)
+AVAXUSDT: return -5.62% (winrate 40.0%, 5 trade)
+MATICUSDT: return -12.83% (winrate 40.0%, 5 trade)
+DOGEUSDT: return -16.59% (winrate 0.0%, 3 trade)
+BNBUSDT: return -18.31% (winrate 40.0%, 5 trade)
