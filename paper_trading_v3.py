@@ -15,7 +15,7 @@ from trading_engine.risk_management import RiskManager
 SYMBOLS = ["BTCUSDT", "SOLUSDT", "LINKUSDT", "LTCUSDT"]
 CANDLES = 500
 ATR_PERIOD = 14
-SL_ATR_MULT = 2.0   # SL = 2.0x ATR di bawah entry (backtest terbaik: +1.41%)
+SL_ATR_MULT = 1.5   # SL = 1.5x ATR (terbukti lebih robust out-of-sample: +0.47% vs 2.0x hanya +0.15%)
 TP_ATR_MULT = 3.0   # TP = 3x ATR di atas entry (risk:reward 1:2)
 
 
