@@ -5,7 +5,7 @@ TIDAK ada eksekusi order. Aman sepenuhnya untuk dites.
 """
 import httpx
 
-BINANCE_BASE_URL = "https://api.binance.com"
+BINANCE_BASE_URL = "https://data-api.binance.vision"
 
 async def get_price(symbol: str = "BTCUSDT") -> dict:
     """Ambil harga terkini untuk satu simbol, misal BTCUSDT."""
@@ -15,10 +15,12 @@ async def get_price(symbol: str = "BTCUSDT") -> dict:
         response.raise_for_status()
         return response.json()
 
-async def get_klines(symbol: str = "BTCUSDT", interval: str = "1h", limit: int = 5) -> list:
+async def get_klines(symbol: str = "BTCUSDT", interval: str = "1h", limit: int = 5, end_time: int = None) -> list:
     """Ambil data candlestick (buat nanti dipakai strategi MA20/MA50)."""
     url = f"{BINANCE_BASE_URL}/api/v3/klines"
     params = {"symbol": symbol, "interval": interval, "limit": limit}
+    if end_time is not None:
+        params["endTime"] = end_time
     async with httpx.AsyncClient() as client:
         response = await client.get(url, params=params)
         response.raise_for_status()
