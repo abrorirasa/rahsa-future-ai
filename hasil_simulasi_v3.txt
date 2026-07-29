@@ -65,10 +65,20 @@ Total PnL harian terakhir: -6.97%
 Trading dihentikan otomatis?: True
 
 --- SOLUSDT ---
-SOLUSDT: BUY di harga 89.0400 (ATR: 1.6871, SL: 86.5093, TP: 94.1014)
-SOLUSDT: STOP LOSS kena di harga 86.1100, PnL: -3.29%
 SOLUSDT: BUY di harga 86.5400 (ATR: 1.2279, SL: 84.6982, TP: 90.2236)
 SOLUSDT: STOP LOSS kena di harga 84.2000, PnL: -2.7%
+SOLUSDT: BUY di harga 84.1000 (ATR: 1.3743, SL: 82.0386, TP: 88.2229)
+SOLUSDT: SELL (sinyal strategi) di harga 87.8300, PnL: 4.44%
+SOLUSDT: BUY di harga 82.3100 (ATR: 1.4657, SL: 80.1114, TP: 86.7071)
+SOLUSDT: SELL (sinyal strategi) di harga 86.2600, PnL: 4.8%
+SOLUSDT: BUY di harga 82.4400 (ATR: 1.2943, SL: 80.4986, TP: 86.3229)
+SOLUSDT: STOP LOSS kena di harga 79.6000, PnL: -3.44%
+SOLUSDT: BUY di harga 78.9400 (ATR: 1.3814, SL: 76.8679, TP: 83.0843)
+SOLUSDT: STOP LOSS kena di harga 76.3800, PnL: -3.24%
+SOLUSDT: BUY di harga 75.5300 (ATR: 1.7721, SL: 72.8718, TP: 80.8464)
+SOLUSDT: STOP LOSS kena di harga 72.7100, PnL: -3.73%
+SOLUSDT: BUY di harga 75.2700 (ATR: 2.1671, SL: 72.0193, TP: 81.7714)
+SOLUSDT: STOP LOSS kena di harga 71.9900, PnL: -4.36%
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -125,22 +135,7 @@ SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -5.99%
+Total PnL harian terakhir: -8.25%
 Trading dihentikan otomatis?: True
 
 --- LINKUSDT ---
@@ -148,6 +143,8 @@ LINKUSDT: BUY di harga 9.7200 (ATR: 0.1729, SL: 9.4607, TP: 10.2386)
 LINKUSDT: STOP LOSS kena di harga 9.4200, PnL: -3.09%
 LINKUSDT: BUY di harga 9.1360 (ATR: 0.1673, SL: 8.8851, TP: 9.6379)
 LINKUSDT: STOP LOSS kena di harga 8.8680, PnL: -2.93%
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -196,6 +193,8 @@ LTCUSDT: BUY di harga 56.1900 (ATR: 0.7529, SL: 55.0607, TP: 58.4486)
 LTCUSDT: STOP LOSS kena di harga 54.5700, PnL: -2.88%
 LTCUSDT: BUY di harga 54.1800 (ATR: 0.7036, SL: 53.1246, TP: 56.2907)
 LTCUSDT: STOP LOSS kena di harga 52.6500, PnL: -2.82%
+LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
