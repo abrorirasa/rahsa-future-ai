@@ -2,8 +2,8 @@
 
 
 --- BTCUSDT ---
-BTCUSDT: BUY di harga 73301.5200 (ATR: 820.7071, SL: 72070.4593, TP: 75763.6414)
-BTCUSDT: STOP LOSS kena di harga 71129.6200, PnL: -2.96%
+BTCUSDT: BUY di harga 73528.5600 (ATR: 836.9179, SL: 72273.1832, TP: 76039.3136)
+BTCUSDT: STOP LOSS kena di harga 71129.6200, PnL: -3.26%
 BTCUSDT: BUY di harga 71595.2400 (ATR: 662.9757, SL: 70600.7764, TP: 73584.1671)
 BTCUSDT: STOP LOSS kena di harga 70118.4200, PnL: -2.06%
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -57,7 +57,8 @@ BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -5.03%
+BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+Total PnL harian terakhir: -5.33%
 Trading dihentikan otomatis?: True
 
 --- SOLUSDT ---
@@ -131,8 +132,8 @@ Total PnL harian terakhir: -6.98%
 Trading dihentikan otomatis?: True
 
 --- LINKUSDT ---
-LINKUSDT: BUY di harga 8.9430 (ATR: 0.1639, SL: 8.6971, TP: 9.4348)
-LINKUSDT: SELL (sinyal strategi) di harga 9.2640, PnL: 3.59%
+LINKUSDT: BUY di harga 8.9450 (ATR: 0.1707, SL: 8.6889, TP: 9.4571)
+LINKUSDT: SELL (sinyal strategi) di harga 9.2640, PnL: 3.57%
 LINKUSDT: BUY di harga 8.5690 (ATR: 0.196, SL: 8.275, TP: 9.157)
 LINKUSDT: STOP LOSS kena di harga 8.2290, PnL: -3.97%
 LINKUSDT: BUY di harga 8.2120 (ATR: 0.245, SL: 7.8445, TP: 8.947)
@@ -166,7 +167,7 @@ LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian 
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -5.53%
+Total PnL harian terakhir: -5.55%
 Trading dihentikan otomatis?: True
 
 --- LTCUSDT ---
