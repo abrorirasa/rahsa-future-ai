@@ -2,8 +2,8 @@
 
 
 --- BTCUSDT ---
-BTCUSDT: BUY di harga 70118.4200 (ATR: 830.9214, SL: 68872.0379, TP: 72611.1843)
-BTCUSDT: STOP LOSS kena di harga 67304.2800, PnL: -4.01%
+BTCUSDT: BUY di harga 69461.7200 (ATR: 861.6536, SL: 68169.2396, TP: 72046.6807)
+BTCUSDT: STOP LOSS kena di harga 67304.2800, PnL: -3.11%
 BTCUSDT: BUY di harga 67315.1400 (ATR: 1109.9607, SL: 65650.1989, TP: 70645.0221)
 BTCUSDT: STOP LOSS kena di harga 65462.0000, PnL: -2.75%
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -52,7 +52,7 @@ BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 BTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -6.77%
+Total PnL harian terakhir: -5.86%
 Trading dihentikan otomatis?: True
 
 --- SOLUSDT ---
@@ -163,8 +163,8 @@ Total PnL harian terakhir: -9.12%
 Trading dihentikan otomatis?: True
 
 --- LTCUSDT ---
-LTCUSDT: BUY di harga 49.4500 (ATR: 0.7621, SL: 48.3068, TP: 51.7364)
-LTCUSDT: STOP LOSS kena di harga 47.8200, PnL: -3.3%
+LTCUSDT: BUY di harga 49.3600 (ATR: 0.7721, SL: 48.2018, TP: 51.6764)
+LTCUSDT: STOP LOSS kena di harga 47.8200, PnL: -3.12%
 LTCUSDT: BUY di harga 48.1100 (ATR: 0.9486, SL: 46.6871, TP: 50.9557)
 LTCUSDT: STOP LOSS kena di harga 46.2100, PnL: -3.95%
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -219,5 +219,5 @@ LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -7.25%
+Total PnL harian terakhir: -7.07%
 Trading dihentikan otomatis?: True
