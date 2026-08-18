@@ -30,8 +30,8 @@ Total PnL harian terakhir: 6.42%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
-SOLUSDT: BUY di harga 68.8800 (ATR: 2.5114, SL: 65.1129, TP: 76.4143)
-SOLUSDT: STOP LOSS kena di harga 64.2400, PnL: -6.74%
+SOLUSDT: BUY di harga 67.0900 (ATR: 2.4393, SL: 63.4311, TP: 74.4079)
+SOLUSDT: STOP LOSS kena di harga 62.8400, PnL: -6.33%
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -76,10 +76,7 @@ SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-SOLUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -6.74%
+Total PnL harian terakhir: -6.33%
 Trading dihentikan otomatis?: True
 
 --- LINKUSDT ---
