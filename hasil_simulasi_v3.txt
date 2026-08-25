@@ -42,8 +42,6 @@ Total PnL harian terakhir: 15.65%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
-LINKUSDT: BUY di harga 7.8030 (ATR: 0.1913, SL: 7.5161, TP: 8.3769)
-LINKUSDT: SELL (sinyal strategi) di harga 8.1810, PnL: 4.84%
 LINKUSDT: BUY di harga 7.3680 (ATR: 0.1539, SL: 7.1372, TP: 7.8296)
 LINKUSDT: SELL (sinyal strategi) di harga 7.7470, PnL: 5.14%
 LINKUSDT: BUY di harga 7.7030 (ATR: 0.1566, SL: 7.468, TP: 8.1729)
@@ -56,7 +54,7 @@ LINKUSDT: BUY di harga 8.2760 (ATR: 0.1466, SL: 8.0561, TP: 8.7157)
 LINKUSDT: STOP LOSS kena di harga 8.0040, PnL: -3.29%
 LINKUSDT: BUY di harga 8.0680 (ATR: 0.1152, SL: 7.8952, TP: 8.4136)
 LINKUSDT: TAKE PROFIT kena di harga 8.4760, PnL: 5.06%
-Total PnL harian terakhir: 22.29%
+Total PnL harian terakhir: 17.44%
 Trading dihentikan otomatis?: False
 
 --- LTCUSDT ---
