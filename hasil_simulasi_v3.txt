@@ -2,8 +2,8 @@
 
 
 --- BTCUSDT ---
-BTCUSDT: BUY di harga 64509.4000 (ATR: 937.62, SL: 63102.97, TP: 67322.26)
-BTCUSDT: STOP LOSS kena di harga 62369.4400, PnL: -3.32%
+BTCUSDT: BUY di harga 64282.8200 (ATR: 908.6193, SL: 62919.8911, TP: 67008.6779)
+BTCUSDT: STOP LOSS kena di harga 62369.4400, PnL: -2.98%
 BTCUSDT: BUY di harga 62950.7900 (ATR: 1025.375, SL: 61412.7275, TP: 66026.915)
 BTCUSDT: SELL (sinyal strategi) di harga 64298.0100, PnL: 2.14%
 BTCUSDT: BUY di harga 60250.0000 (ATR: 935.3814, SL: 58846.9279, TP: 63056.1443)
@@ -24,7 +24,7 @@ BTCUSDT: BUY di harga 62968.0500 (ATR: 487.0386, SL: 62237.4921, TP: 64429.1657)
 BTCUSDT: SELL (sinyal strategi) di harga 64200.0000, PnL: 1.96%
 BTCUSDT: BUY di harga 78230.0000 (ATR: 766.1057, SL: 77080.8414, TP: 80528.3171)
 BTCUSDT: SELL (sinyal strategi) di harga 77756.7100, PnL: -0.6%
-Total PnL harian terakhir: 5.72%
+Total PnL harian terakhir: 6.06%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
