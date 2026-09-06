@@ -24,8 +24,8 @@ Total PnL harian terakhir: 6.9%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
-SOLUSDT: BUY di harga 69.3300 (ATR: 1.5193, SL: 67.0511, TP: 73.8879)
-SOLUSDT: STOP LOSS kena di harga 66.1300, PnL: -4.62%
+SOLUSDT: BUY di harga 68.9200 (ATR: 1.5514, SL: 66.5929, TP: 73.5743)
+SOLUSDT: STOP LOSS kena di harga 66.1300, PnL: -4.05%
 SOLUSDT: BUY di harga 68.1100 (ATR: 1.6864, SL: 65.5804, TP: 73.1693)
 SOLUSDT: TAKE PROFIT kena di harga 73.9200, PnL: 8.53%
 SOLUSDT: BUY di harga 76.7500 (ATR: 1.555, SL: 74.4175, TP: 81.415)
@@ -37,7 +37,7 @@ SOLUSDT: TAKE PROFIT kena di harga 73.7200, PnL: 3.44%
 SOLUSDT: BUY di harga 105.0700 (ATR: 1.9921, SL: 102.0818, TP: 111.0464)
 SOLUSDT: STOP LOSS kena di harga 101.7500, PnL: -3.16%
 SOLUSDT: BUY di harga 100.0000 (ATR: 2.1429, SL: 96.7857, TP: 106.4286)
-Total PnL harian terakhir: 7.26%
+Total PnL harian terakhir: 7.83%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
