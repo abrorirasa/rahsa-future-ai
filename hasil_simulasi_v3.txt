@@ -24,10 +24,8 @@ Total PnL harian terakhir: 6.9%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
-SOLUSDT: BUY di harga 69.8200 (ATR: 1.36, SL: 67.78, TP: 73.9)
-SOLUSDT: STOP LOSS kena di harga 67.3300, PnL: -3.57%
-SOLUSDT: BUY di harga 66.1300 (ATR: 1.6471, SL: 63.6593, TP: 71.0714)
-SOLUSDT: TAKE PROFIT kena di harga 72.0700, PnL: 8.98%
+SOLUSDT: BUY di harga 67.3300 (ATR: 1.4721, SL: 65.1218, TP: 71.7464)
+SOLUSDT: TAKE PROFIT kena di harga 72.0700, PnL: 7.04%
 SOLUSDT: BUY di harga 72.6800 (ATR: 1.4979, SL: 70.4332, TP: 77.1736)
 SOLUSDT: SELL (sinyal strategi) di harga 75.4800, PnL: 3.85%
 SOLUSDT: BUY di harga 76.7500 (ATR: 1.555, SL: 74.4175, TP: 81.415)
@@ -40,7 +38,7 @@ SOLUSDT: BUY di harga 105.0700 (ATR: 1.9921, SL: 102.0818, TP: 111.0464)
 SOLUSDT: STOP LOSS kena di harga 101.7500, PnL: -3.16%
 SOLUSDT: BUY di harga 100.0000 (ATR: 2.1429, SL: 96.7857, TP: 106.4286)
 SOLUSDT: TAKE PROFIT kena di harga 106.4700, PnL: 6.47%
-Total PnL harian terakhir: 19.08%
+Total PnL harian terakhir: 20.71%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
@@ -62,10 +60,8 @@ Total PnL harian terakhir: 14.7%
 Trading dihentikan otomatis?: False
 
 --- LTCUSDT ---
-LTCUSDT: BUY di harga 42.0700 (ATR: 0.6993, SL: 41.0211, TP: 44.1679)
-LTCUSDT: STOP LOSS kena di harga 40.7100, PnL: -3.23%
-LTCUSDT: BUY di harga 40.1000 (ATR: 0.8343, SL: 38.8486, TP: 42.6029)
-LTCUSDT: TAKE PROFIT kena di harga 43.1200, PnL: 7.53%
+LTCUSDT: BUY di harga 40.7100 (ATR: 0.7536, SL: 39.5796, TP: 42.9707)
+LTCUSDT: TAKE PROFIT kena di harga 43.1200, PnL: 5.92%
 LTCUSDT: BUY di harga 43.4600 (ATR: 0.7607, SL: 42.3189, TP: 45.7421)
 LTCUSDT: SELL (sinyal strategi) di harga 44.7800, PnL: 3.04%
 LTCUSDT: BUY di harga 43.3300 (ATR: 0.5821, SL: 42.4568, TP: 45.0764)
@@ -84,5 +80,5 @@ LTCUSDT: BUY di harga 43.6400 (ATR: 0.3893, SL: 43.0561, TP: 44.8079)
 LTCUSDT: TAKE PROFIT kena di harga 44.8300, PnL: 2.73%
 LTCUSDT: BUY di harga 49.8400 (ATR: 1.115, SL: 48.1675, TP: 53.185)
 LTCUSDT: STOP LOSS kena di harga 47.9400, PnL: -3.81%
-Total PnL harian terakhir: 9.75%
+Total PnL harian terakhir: 11.37%
 Trading dihentikan otomatis?: False
