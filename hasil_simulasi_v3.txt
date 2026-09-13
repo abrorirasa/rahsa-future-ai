@@ -55,7 +55,8 @@ LINKUSDT: STOP LOSS kena di harga 11.1440, PnL: -2.74%
 LINKUSDT: BUY di harga 12.4890 (ATR: 0.3264, SL: 11.9994, TP: 13.4683)
 LINKUSDT: STOP LOSS kena di harga 11.8660, PnL: -4.99%
 LINKUSDT: BUY di harga 11.8040 (ATR: 0.2946, SL: 11.3621, TP: 12.6877)
-Total PnL harian terakhir: 4.57%
+LINKUSDT: STOP LOSS kena di harga 11.3460, PnL: -3.88%
+Total PnL harian terakhir: 0.69%
 Trading dihentikan otomatis?: False
 
 --- LTCUSDT ---
@@ -78,5 +79,6 @@ LTCUSDT: TAKE PROFIT kena di harga 44.8300, PnL: 2.73%
 LTCUSDT: BUY di harga 49.8400 (ATR: 1.115, SL: 48.1675, TP: 53.185)
 LTCUSDT: STOP LOSS kena di harga 47.9400, PnL: -3.81%
 LTCUSDT: BUY di harga 53.5200 (ATR: 1.2643, SL: 51.6236, TP: 57.3129)
-Total PnL harian terakhir: 5.45%
+LTCUSDT: SELL (sinyal strategi) di harga 54.0900, PnL: 1.07%
+Total PnL harian terakhir: 6.51%
 Trading dihentikan otomatis?: False
