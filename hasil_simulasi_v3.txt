@@ -66,8 +66,6 @@ Total PnL harian terakhir: 15.2%
 Trading dihentikan otomatis?: False
 
 --- LTCUSDT ---
-LTCUSDT: BUY di harga 43.4600 (ATR: 0.7607, SL: 42.3189, TP: 45.7421)
-LTCUSDT: SELL (sinyal strategi) di harga 44.7800, PnL: 3.04%
 LTCUSDT: BUY di harga 43.3300 (ATR: 0.5821, SL: 42.4568, TP: 45.0764)
 LTCUSDT: SELL (sinyal strategi) di harga 44.9600, PnL: 3.76%
 LTCUSDT: BUY di harga 45.9200 (ATR: 0.5857, SL: 45.0414, TP: 47.6771)
@@ -88,5 +86,5 @@ LTCUSDT: BUY di harga 53.5200 (ATR: 1.2643, SL: 51.6236, TP: 57.3129)
 LTCUSDT: SELL (sinyal strategi) di harga 54.0900, PnL: 1.07%
 LTCUSDT: BUY di harga 51.2700 (ATR: 0.9436, SL: 49.8546, TP: 54.1007)
 LTCUSDT: SELL (sinyal strategi) di harga 53.9500, PnL: 5.23%
-Total PnL harian terakhir: 11.74%
+Total PnL harian terakhir: 8.7%
 Trading dihentikan otomatis?: False
