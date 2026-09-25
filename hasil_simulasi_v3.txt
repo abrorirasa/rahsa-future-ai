@@ -61,7 +61,8 @@ LINKUSDT: TAKE PROFIT kena di harga 11.7430, PnL: 4.82%
 LINKUSDT: BUY di harga 10.6800 (ATR: 0.2768, SL: 10.2648, TP: 11.5104)
 LINKUSDT: TAKE PROFIT kena di harga 11.7610, PnL: 10.12%
 LINKUSDT: BUY di harga 12.2920 (ATR: 0.3374, SL: 11.7859, TP: 13.3043)
-Total PnL harian terakhir: 11.73%
+LINKUSDT: TAKE PROFIT kena di harga 13.4170, PnL: 9.15%
+Total PnL harian terakhir: 20.89%
 Trading dihentikan otomatis?: False
 
 --- LTCUSDT ---
