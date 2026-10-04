@@ -32,7 +32,7 @@ SOLUSDT: BUY di harga 100.0000 (ATR: 2.1429, SL: 96.7857, TP: 106.4286)
 SOLUSDT: TAKE PROFIT kena di harga 106.4700, PnL: 6.47%
 SOLUSDT: BUY di harga 98.6700 (ATR: 1.7336, SL: 96.0696, TP: 103.8707)
 SOLUSDT: TAKE PROFIT kena di harga 104.5900, PnL: 6.0%
-SOLUSDT: BUY di harga 121.4000 (ATR: 1.2236, SL: 119.5646, TP: 125.0707)
+SOLUSDT: BUY di harga 121.1000 (ATR: 1.27, SL: 119.195, TP: 124.91)
 Total PnL harian terakhir: 16.52%
 Trading dihentikan otomatis?: False
 
