@@ -19,7 +19,8 @@ BTCUSDT: STOP LOSS kena di harga 82757.0000, PnL: -1.65%
 BTCUSDT: BUY di harga 82998.7500 (ATR: 791.9664, SL: 81810.8004, TP: 85374.6493)
 BTCUSDT: STOP LOSS kena di harga 81037.9900, PnL: -2.36%
 BTCUSDT: BUY di harga 81775.5200 (ATR: 928.505, SL: 80382.7625, TP: 84561.035)
-Total PnL harian terakhir: 4.25%
+BTCUSDT: SELL (sinyal strategi) di harga 83094.0100, PnL: 1.61%
+Total PnL harian terakhir: 5.87%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
