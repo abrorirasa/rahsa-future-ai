@@ -20,8 +20,9 @@ BTCUSDT: BUY di harga 82998.7500 (ATR: 791.9664, SL: 81810.8004, TP: 85374.6493)
 BTCUSDT: STOP LOSS kena di harga 81037.9900, PnL: -2.36%
 BTCUSDT: BUY di harga 81775.5200 (ATR: 928.505, SL: 80382.7625, TP: 84561.035)
 BTCUSDT: SELL (sinyal strategi) di harga 82988.3600, PnL: 1.48%
-BTCUSDT: BUY di harga 83452.4000 (ATR: 921.5921, SL: 82070.0118, TP: 86217.1764)
-Total PnL harian terakhir: 5.74%
+BTCUSDT: BUY di harga 83465.9400 (ATR: 945.2564, SL: 82048.0554, TP: 86301.7093)
+BTCUSDT: STOP LOSS kena di harga 81641.4400, PnL: -2.19%
+Total PnL harian terakhir: 3.55%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
@@ -39,6 +40,7 @@ SOLUSDT: BUY di harga 116.7900 (ATR: 1.73, SL: 114.195, TP: 121.98)
 SOLUSDT: STOP LOSS kena di harga 113.1500, PnL: -3.12%
 SOLUSDT: BUY di harga 108.5700 (ATR: 1.9821, SL: 105.5968, TP: 114.5164)
 SOLUSDT: SELL (sinyal strategi) di harga 111.7200, PnL: 2.9%
+SOLUSDT: BUY di harga 103.8800 (ATR: 2.6129, SL: 99.9607, TP: 111.7186)
 Total PnL harian terakhir: 13.02%
 Trading dihentikan otomatis?: False
 
@@ -51,6 +53,7 @@ LINKUSDT: BUY di harga 12.4890 (ATR: 0.3264, SL: 11.9994, TP: 13.4683)
 LINKUSDT: STOP LOSS kena di harga 11.8660, PnL: -4.99%
 LINKUSDT: BUY di harga 11.8040 (ATR: 0.2946, SL: 11.3621, TP: 12.6877)
 LINKUSDT: STOP LOSS kena di harga 11.2950, PnL: -4.31%
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
@@ -92,5 +95,6 @@ LTCUSDT: BUY di harga 66.1400 (ATR: 1.1671, SL: 64.3893, TP: 69.6414)
 LTCUSDT: STOP LOSS kena di harga 64.1100, PnL: -3.07%
 LTCUSDT: BUY di harga 61.9400 (ATR: 1.2571, SL: 60.0543, TP: 65.7114)
 LTCUSDT: SELL (sinyal strategi) di harga 64.0200, PnL: 3.36%
+LTCUSDT: BUY di harga 59.0100 (ATR: 1.5543, SL: 56.6786, TP: 63.6729)
 Total PnL harian terakhir: 3.32%
 Trading dihentikan otomatis?: False
