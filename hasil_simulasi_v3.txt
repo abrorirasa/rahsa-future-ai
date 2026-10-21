@@ -37,8 +37,8 @@ SOLUSDT: STOP LOSS kena di harga 113.1500, PnL: -3.12%
 SOLUSDT: BUY di harga 108.5700 (ATR: 1.9821, SL: 105.5968, TP: 114.5164)
 SOLUSDT: SELL (sinyal strategi) di harga 111.7200, PnL: 2.9%
 SOLUSDT: BUY di harga 103.8800 (ATR: 2.6129, SL: 99.9607, TP: 111.7186)
-SOLUSDT: SELL (sinyal strategi) di harga 106.1900, PnL: 2.22%
-Total PnL harian terakhir: 11.81%
+SOLUSDT: SELL (sinyal strategi) di harga 105.8600, PnL: 1.91%
+Total PnL harian terakhir: 11.49%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
@@ -102,6 +102,6 @@ LTCUSDT: STOP LOSS kena di harga 64.1100, PnL: -3.07%
 LTCUSDT: BUY di harga 61.9400 (ATR: 1.2571, SL: 60.0543, TP: 65.7114)
 LTCUSDT: SELL (sinyal strategi) di harga 64.0200, PnL: 3.36%
 LTCUSDT: BUY di harga 59.0100 (ATR: 1.5543, SL: 56.6786, TP: 63.6729)
-LTCUSDT: SELL (sinyal strategi) di harga 61.4500, PnL: 4.13%
-Total PnL harian terakhir: 5.39%
+LTCUSDT: SELL (sinyal strategi) di harga 61.4800, PnL: 4.19%
+Total PnL harian terakhir: 5.44%
 Trading dihentikan otomatis?: False
