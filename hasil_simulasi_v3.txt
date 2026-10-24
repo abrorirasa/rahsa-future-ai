@@ -2,8 +2,8 @@
 
 
 --- BTCUSDT ---
-BTCUSDT: BUY di harga 63970.0100 (ATR: 374.0621, SL: 63408.9168, TP: 65092.1964)
-BTCUSDT: STOP LOSS kena di harga 63407.9900, PnL: -0.88%
+BTCUSDT: BUY di harga 63600.0000 (ATR: 474.7686, SL: 62887.8471, TP: 65024.3057)
+BTCUSDT: STOP LOSS kena di harga 62868.8300, PnL: -1.15%
 BTCUSDT: BUY di harga 62968.0500 (ATR: 487.0386, SL: 62237.4921, TP: 64429.1657)
 BTCUSDT: SELL (sinyal strategi) di harga 64200.0000, PnL: 1.96%
 BTCUSDT: BUY di harga 78230.0000 (ATR: 766.1057, SL: 77080.8414, TP: 80528.3171)
@@ -22,7 +22,7 @@ BTCUSDT: BUY di harga 83465.9400 (ATR: 945.2564, SL: 82048.0554, TP: 86301.7093)
 BTCUSDT: STOP LOSS kena di harga 81641.4400, PnL: -2.19%
 BTCUSDT: BUY di harga 81282.3300 (ATR: 821.5243, SL: 80050.0436, TP: 83746.9029)
 BTCUSDT: STOP LOSS kena di harga 79803.7500, PnL: -1.82%
-Total PnL harian terakhir: -0.82%
+Total PnL harian terakhir: -1.09%
 Trading dihentikan otomatis?: False
 
 --- SOLUSDT ---
@@ -42,7 +42,6 @@ SOLUSDT: BUY di harga 103.8800 (ATR: 2.6129, SL: 99.9607, TP: 111.7186)
 SOLUSDT: SELL (sinyal strategi) di harga 105.8600, PnL: 1.91%
 SOLUSDT: BUY di harga 102.8500 (ATR: 1.5829, SL: 100.4757, TP: 107.5986)
 SOLUSDT: STOP LOSS kena di harga 99.7800, PnL: -2.98%
-SOLUSDT: BUY di harga 100.7700 (ATR: 1.5064, SL: 98.5104, TP: 105.2893)
 Total PnL harian terakhir: 8.5%
 Trading dihentikan otomatis?: False
 
@@ -51,7 +50,6 @@ LINKUSDT: BUY di harga 11.4580 (ATR: 0.1885, SL: 11.1753, TP: 12.0235)
 LINKUSDT: STOP LOSS kena di harga 11.1440, PnL: -2.74%
 LINKUSDT: BUY di harga 12.4890 (ATR: 0.3264, SL: 11.9994, TP: 13.4683)
 LINKUSDT: STOP LOSS kena di harga 11.8660, PnL: -4.99%
-LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
