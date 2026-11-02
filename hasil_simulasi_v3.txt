@@ -43,7 +43,9 @@ SOLUSDT: SELL (sinyal strategi) di harga 105.8600, PnL: 1.91%
 SOLUSDT: BUY di harga 102.8500 (ATR: 1.5829, SL: 100.4757, TP: 107.5986)
 SOLUSDT: STOP LOSS kena di harga 99.7800, PnL: -2.98%
 SOLUSDT: BUY di harga 95.5400 (ATR: 1.99, SL: 92.555, TP: 101.51)
-Total PnL harian terakhir: 8.5%
+SOLUSDT: STOP LOSS kena di harga 91.7700, PnL: -3.95%
+SOLUSDT: BUY di harga 91.5400 (ATR: 1.3207, SL: 89.5589, TP: 95.5021)
+Total PnL harian terakhir: 4.56%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
@@ -51,6 +53,7 @@ LINKUSDT: BUY di harga 11.4580 (ATR: 0.1885, SL: 11.1753, TP: 12.0235)
 LINKUSDT: STOP LOSS kena di harga 11.1440, PnL: -2.74%
 LINKUSDT: BUY di harga 12.4890 (ATR: 0.3264, SL: 11.9994, TP: 13.4683)
 LINKUSDT: STOP LOSS kena di harga 11.8660, PnL: -4.99%
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
