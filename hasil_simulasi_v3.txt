@@ -45,7 +45,8 @@ SOLUSDT: STOP LOSS kena di harga 99.7800, PnL: -2.98%
 SOLUSDT: BUY di harga 95.5400 (ATR: 1.99, SL: 92.555, TP: 101.51)
 SOLUSDT: STOP LOSS kena di harga 91.7700, PnL: -3.95%
 SOLUSDT: BUY di harga 91.9800 (ATR: 1.3436, SL: 89.9646, TP: 96.0107)
-Total PnL harian terakhir: 4.56%
+SOLUSDT: TAKE PROFIT kena di harga 96.7000, PnL: 5.13%
+Total PnL harian terakhir: 9.69%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
