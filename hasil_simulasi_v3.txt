@@ -48,7 +48,8 @@ SOLUSDT: STOP LOSS kena di harga 91.7700, PnL: -3.95%
 SOLUSDT: BUY di harga 91.9800 (ATR: 1.3436, SL: 89.9646, TP: 96.0107)
 SOLUSDT: TAKE PROFIT kena di harga 96.7000, PnL: 5.13%
 SOLUSDT: BUY di harga 90.1300 (ATR: 2.0571, SL: 87.0443, TP: 96.3014)
-Total PnL harian terakhir: 9.69%
+SOLUSDT: STOP LOSS kena di harga 86.5400, PnL: -3.98%
+Total PnL harian terakhir: 5.71%
 Trading dihentikan otomatis?: False
 
 --- LINKUSDT ---
@@ -134,5 +135,6 @@ LTCUSDT: STOP LOSS kena di harga 57.2700, PnL: -3.59%
 LTCUSDT: BUY di harga 57.1700 (ATR: 1.0779, SL: 55.5532, TP: 60.4036)
 LTCUSDT: SELL (sinyal strategi) di harga 58.4200, PnL: 2.19%
 LTCUSDT: BUY di harga 52.3900 (ATR: 1.0721, SL: 50.7818, TP: 55.6064)
-Total PnL harian terakhir: 3.3%
+LTCUSDT: STOP LOSS kena di harga 50.1100, PnL: -4.35%
+Total PnL harian terakhir: -1.05%
 Trading dihentikan otomatis?: False
