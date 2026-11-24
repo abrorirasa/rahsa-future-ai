@@ -99,46 +99,74 @@ Total PnL harian terakhir: -9.6%
 Trading dihentikan otomatis?: True
 
 --- LINKUSDT ---
-LINKUSDT: BUY di harga 11.8040 (ATR: 0.2946, SL: 11.3621, TP: 12.6877)
-LINKUSDT: STOP LOSS kena di harga 11.2950, PnL: -4.31%
-LINKUSDT: BUY di harga 11.2030 (ATR: 0.161, SL: 10.9615, TP: 11.686)
-LINKUSDT: TAKE PROFIT kena di harga 11.7430, PnL: 4.82%
-LINKUSDT: BUY di harga 10.6800 (ATR: 0.2768, SL: 10.2648, TP: 11.5104)
-LINKUSDT: TAKE PROFIT kena di harga 11.7610, PnL: 10.12%
-LINKUSDT: BUY di harga 12.2920 (ATR: 0.3374, SL: 11.7859, TP: 13.3043)
-LINKUSDT: TAKE PROFIT kena di harga 13.4140, PnL: 9.13%
-LINKUSDT: BUY di harga 14.2240 (ATR: 0.4409, SL: 13.5627, TP: 15.5466)
-LINKUSDT: SELL (sinyal strategi) di harga 14.1470, PnL: -0.54%
-LINKUSDT: BUY di harga 13.4310 (ATR: 0.2741, SL: 13.0198, TP: 14.2534)
-LINKUSDT: STOP LOSS kena di harga 13.0110, PnL: -3.13%
-LINKUSDT: BUY di harga 12.3620 (ATR: 0.2997, SL: 11.9124, TP: 13.2611)
-LINKUSDT: SELL (sinyal strategi) di harga 13.0120, PnL: 5.26%
-LINKUSDT: BUY di harga 12.4190 (ATR: 0.3398, SL: 11.9093, TP: 13.4384)
-LINKUSDT: STOP LOSS kena di harga 11.7710, PnL: -5.22%
-LINKUSDT: BUY di harga 11.5680 (ATR: 0.2228, SL: 11.2338, TP: 12.2364)
-LINKUSDT: TAKE PROFIT kena di harga 12.3320, PnL: 6.6%
-LINKUSDT: BUY di harga 11.9600 (ATR: 0.2191, SL: 11.6314, TP: 12.6172)
-LINKUSDT: STOP LOSS kena di harga 11.6020, PnL: -2.99%
-LINKUSDT: BUY di harga 11.3880 (ATR: 0.2378, SL: 11.0313, TP: 12.1014)
-LINKUSDT: SELL (sinyal strategi) di harga 11.7680, PnL: 3.34%
-LINKUSDT: BUY di harga 11.1280 (ATR: 0.2263, SL: 10.7886, TP: 11.8069)
-LINKUSDT: STOP LOSS kena di harga 10.7700, PnL: -3.22%
-LINKUSDT: BUY di harga 10.4110 (ATR: 0.1602, SL: 10.1707, TP: 10.8916)
-LINKUSDT: STOP LOSS kena di harga 10.1130, PnL: -2.86%
-LINKUSDT: BUY di harga 10.1090 (ATR: 0.2223, SL: 9.7756, TP: 10.7759)
-LINKUSDT: STOP LOSS kena di harga 9.7390, PnL: -3.66%
-LINKUSDT: BUY di harga 9.5610 (ATR: 0.2794, SL: 9.142, TP: 10.3991)
-LINKUSDT: STOP LOSS kena di harga 9.0710, PnL: -5.12%
-LINKUSDT: BUY di harga 8.8850 (ATR: 0.305, SL: 8.4275, TP: 9.8)
-LINKUSDT: STOP LOSS kena di harga 8.3430, PnL: -6.1%
-LINKUSDT: BUY di harga 8.3640 (ATR: 0.2233, SL: 8.0291, TP: 9.0339)
-LINKUSDT: SELL (sinyal strategi) di harga 8.9520, PnL: 7.03%
-Total PnL harian terakhir: 9.14%
-Trading dihentikan otomatis?: False
+LINKUSDT: BUY di harga 11.8180 (ATR: 0.2785, SL: 11.4002, TP: 12.6535)
+LINKUSDT: STOP LOSS kena di harga 11.3980, PnL: -3.55%
+LINKUSDT: BUY di harga 11.7090 (ATR: 0.3112, SL: 11.2422, TP: 12.6426)
+LINKUSDT: STOP LOSS kena di harga 11.2030, PnL: -4.32%
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+LINKUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
+Total PnL harian terakhir: -7.88%
+Trading dihentikan otomatis?: True
 
 --- LTCUSDT ---
-LTCUSDT: BUY di harga 53.2000 (ATR: 1.0529, SL: 51.6207, TP: 56.3586)
-LTCUSDT: SELL (sinyal strategi) di harga 54.0900, PnL: 1.67%
+LTCUSDT: BUY di harga 52.2200 (ATR: 0.9936, SL: 50.7296, TP: 55.2007)
+LTCUSDT: SELL (sinyal strategi) di harga 54.0900, PnL: 3.58%
 LTCUSDT: BUY di harga 51.2700 (ATR: 0.9436, SL: 49.8546, TP: 54.1007)
 LTCUSDT: SELL (sinyal strategi) di harga 53.9500, PnL: 5.23%
 LTCUSDT: BUY di harga 70.0700 (ATR: 1.685, SL: 67.5425, TP: 75.125)
@@ -178,5 +206,5 @@ LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian t
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
 LTCUSDT: Sinyal BUY muncul tapi DITOLAK: Trading dihentikan: batas rugi harian tercapai
-Total PnL harian terakhir: -9.76%
+Total PnL harian terakhir: -7.85%
 Trading dihentikan otomatis?: True
